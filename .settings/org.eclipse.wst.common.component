@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="DiscountOnShopping">
-        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
-        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="context-root" value="DiscountOnShopping"/>
-        <property name="java-output-path" value="/DiscountOnShopping/build/classes"/>
+    <wb-module deploy-name="Ds">
+        <wb-resource deploy-path="/" source-path="/WebContent"/>
+        <property name="context-root" value="Ds"/>
     </wb-module>
 </project-modules>
